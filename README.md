@@ -13,12 +13,9 @@ Por otro lado, he observado el CSS de la pagina web y me han salido 4 errores e 
 
 He intentado evaluar el color de la página web, pero la página facilitada para hacerlo esta en mantenimiento y no he podido realizarlo. 
 
+![3foto](https://user-images.githubusercontent.com/81373978/153196187-417a7a89-2cc2-4c5e-96bd-c70c6c76e31e.jpeg)
 
 Por último, he realizado un reconocimiento global WCAG donde le han pasado un número de 63 test a la página de los cuales ha pasado 24. 
  
-
-![3foto](https://user-images.githubusercontent.com/81373978/153196187-417a7a89-2cc2-4c5e-96bd-c70c6c76e31e.jpeg)
-
-
-
+![4foto](https://user-images.githubusercontent.com/81373978/153197070-15cb2a22-95d7-4d1d-bb15-f2604f678494.jpeg)
 
