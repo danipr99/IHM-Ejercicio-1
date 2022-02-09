@@ -9,7 +9,7 @@ Mi primer análisis del HTML de “animeflv” me han salido esta lista de error
 [1foto](https://user-images.githubusercontent.com/81373978/153196183-ee03b5ae-bbea-4cf6-bf9d-fd6cd42bfa82.jpeg)
 Por otro lado, he observado el CSS de la pagina web y me han salido 4 errores e incontables avisos.
  
- ![2foto](https://user-images.githubusercontent.com/81373978/153196185-6cdc1779-2583-4db6-9379-465e359d5410.jpeg)
+ [2foto](https://user-images.githubusercontent.com/81373978/153196185-6cdc1779-2583-4db6-9379-465e359d5410.jpeg)
 
 He intentado evaluar el color de la página web, pero la página facilitada para hacerlo esta en mantenimiento y no he podido realizarlo. 
 
@@ -21,7 +21,7 @@ cicio-1/blob/main/3foto.jpeg
 Por último, he realizado un reconocimiento global WCAG donde le han pasado un número de 63 test a la página de los cuales ha pasado 24. 
  
 
-![3foto](https://user-images.githubusercontent.com/81373978/153196187-417a7a89-2cc2-4c5e-96bd-c70c6c76e31e.jpeg
+[3foto](https://user-images.githubusercontent.com/81373978/153196187-417a7a89-2cc2-4c5e-96bd-c70c6c76e31e.jpeg
 
 
 
